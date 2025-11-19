@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yt-qs.png" alt="yt-qs Banner">
+  <img src="yt-qs.svg" alt="yt-qs Banner">
 </p>
 
 # 🎬 YouTube Downloader – Fast, Clean & Modern
