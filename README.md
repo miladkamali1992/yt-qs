@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="yt-qs.png" alt="yt-qs Banner">
+</p>
+
 # 🎬 YouTube Downloader – Fast, Clean & Modern
 
 A powerful desktop YouTube downloader built with Python and Tkinter, using **yt-dlp** and **ffmpeg** under the hood.  
@@ -31,13 +35,15 @@ Install dependencies:
 ---
 
 ## ▶️ Run the App
-    python youtube.py
+    python yt-qs.py
 
 ---
 
 ## 📁 Project Structure
     yt-qs/
-        youtube.py
+        yt-qs.py
+        yt-qs.png
+        README.md
 
 ---
 
@@ -52,4 +58,5 @@ Install dependencies:
 ---
 
 ## 👨‍💻 Author
-Developed by **Milad** — crafted with attention to detail to deliver a smooth, reliable YouTube downloading experience.
+**Milad**  
+📬 Telegram: **https://MiladKamali.t.me**
